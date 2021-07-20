@@ -1,0 +1,18 @@
+/* this page is include in laidng_page3.html document  */
+
+body {
+  text-align: center;
+  margin: 5em;
+  color: white;
+}
+h1 {
+  font-size: 3em;
+}
+button {
+  border-radius: 10px;
+  /* padding:15px; */
+  margin: 15px;
+}
+img {
+  border-radius: 2em;
+}
